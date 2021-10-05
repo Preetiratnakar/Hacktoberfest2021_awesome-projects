@@ -10,7 +10,7 @@
 ## What to do?
 
 1. Add some unique and amazing projects as per your favourite tech stack for the community to get benifitted.
-   **Add your projects under the respective tech stack folder only**
+   ***Add your projects under the respective tech stack folder only***
 
 2. It can be any of any length and can be any number of scripts, just **add a folder with your projects name.**
 3.  There is no need to raise an issue to add your project, you can directly raise a PR.
@@ -102,4 +102,4 @@
 -[Your name](your-github_url or linkedlin-url) : *Don't edit this template*
 
 
-## All the best for **Hacktoberfest** :)
+## All the best for ***Hacktoberfest*** :)
